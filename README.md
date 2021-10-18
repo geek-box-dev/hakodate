@@ -1,1 +1,1 @@
-# homebrew-hakodate
+# hakodate
